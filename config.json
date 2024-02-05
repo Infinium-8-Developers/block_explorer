@@ -1,0 +1,19 @@
+{
+    "api": "http://127.0.0.1:31112",
+    "frontEnd_api": "*",
+    "server_port": "8008",
+    "auditable_wallet": {
+        "api": "http://127.0.0.1:31212"
+    },
+    "websocket": {
+        "enabled_during_sync": false
+    },
+    "enableVisibilityInfo": true,
+    "database": {
+        "user": "infinium",
+        "host": "127.0.0.1",
+        "port": 5432,
+        "database": "db",
+        "password": "secret"
+    }
+}

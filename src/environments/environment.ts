@@ -5,7 +5,7 @@
 
 export const environment = {
     production: false,
-    backend: 'http://138.124.183.11:9090',
+    backend: 'https://explorer.infinium.space',
     documentionApi: 'https://docs.infinium.space',
     decimalPlaces: 2,
     transactionPoolLimit: 5,

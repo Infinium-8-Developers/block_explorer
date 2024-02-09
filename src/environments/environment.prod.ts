@@ -1,6 +1,6 @@
 export const environment = {
     production: true,
-    backend: 'http://138.124.183.11:8080',
+    backend: 'https://explorer.infinium.space',
     documentionApi: 'https://docs.infinium.space',
     decimalPlaces: 2,
     transactionPoolLimit: 5,
